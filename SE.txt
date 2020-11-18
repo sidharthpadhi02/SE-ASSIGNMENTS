@@ -1,0 +1,55 @@
+ASSIGNMENT-1
+Prepare Problem Statement for any Project.
+N.B: Hardware Specification, Software Specification, Problem Statement.
+
+1.	Project Name
+2.	Describe how things should work(Hardware Specification, Software Specification)
+3.	Explain the problem and state why it matters
+4.	Explain your problem’s financial cost
+5.	Propose a solution
+6.	Explain the benefits of your proposed solution
+7.	Conclude by summarizing the problem and solution
+
+
+1.PROJECT NAME:
+------------------
+Roller Madness Of A Ball - A Game
+
+2.HARDWARE & SOFTWARE SPECIFICATIONS
+----------------------------------------
+   (a) No Hardware Involved
+   (b) Software Specifications: 
+	i.Unity Editor: It used to build the whole software(project). All the game 
+			components, all scritps, assets, etc are developed in this software
+	
+	ii.Blender 3D:This software is used to build all the project model, assets, and 
+		      other raw components are made using Blender 3D software	
+	
+	iii.Visual Studio : This software is used to write down all the functionality 
+			    scripts that are required to give life to the game software.
+
+3.PROBLEM AND WHY IT MATTERS:
+------------------------------
+No problem statement, it's just a self developed product made. It can be further developed 
+into advanced level in order to earn from it.No sign of solving any problem through this project.
+The only motive and aim of this project is to provide user with a game to play.
+
+4.FINANCIAL COST:
+-------------------
+No financial cost required. Its a self developed product and hence used self made assets.
+
+5.SOLUTION PROPOSED:
+-------------------------
+Simple game to enjoy your free time. 
+
+6.BENEFITS OF PROPOSED SOLUTION:
+-------------------------------- 
+i.It's a game which can be used in order to free your mind from daily stress.
+ii.It's age irresepctive.
+ii.Small level games in order to complete levels easily and move on.
+
+7.SUMMARY:
+-------------
+This is a simple game with different levels. In order to complete just reach the goals of 
+each level. Happy Playing!!
+ 
