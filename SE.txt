@@ -53,3 +53,10 @@ ii.Small level games in order to complete levels easily and move on.
 This is a simple game with different levels. In order to complete just reach the goals of 
 each level. Happy Playing!!
  
+ 
+ 
+ TEAM MEMBERS:
+ --------------
+ 1.Sidharth Padhi	18CSE187
+ 2.Arupa Parida		18CSE013
+ 3.P.Anjali Patro	18CSE183
